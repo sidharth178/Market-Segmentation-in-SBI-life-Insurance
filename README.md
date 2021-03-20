@@ -4,7 +4,7 @@ To build a machine learning clustering model for customer segmentation to define
 ### Data Description : 
 This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 ### Data :  
-Use the below link to download the Data Set:  https://www.kaggle.com/arjunbhasin2013/ccdata 
+Use the below link to download the Data Set:[here](https://www.kaggle.com/arjunbhasin2013/ccdata) 
 ### Algorithms used :  
 In this dataset i've used five clustering algorithm to perform segmentation.These algorithms are given below.
 - [K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
