@@ -1,8 +1,9 @@
-# Customer Segmentation
+# Market Segmentation in SBI life Insurance
 ### Objective  :
-To build a machine learning clustering model for customer segmentation to define marketing strategy.
+This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups.
+<img align="center" src="Images/readme_img.png" alt="image">
 ### Data Description : 
-This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 ### Data :  
 Use the below link to download the Data Set:[here](https://www.kaggle.com/arjunbhasin2013/ccdata) 
 ### Algorithms used :  
@@ -53,4 +54,9 @@ If using anaconda ->
  * seaborn:          -<code> pip install seaborn </code>
  * jupyter notebook: -<code> pip install jupyter </code>
 
-  
+ ### Troubleshoot
+Any issues??? Feel free to ask.[Linkedin](https://www.linkedin.com/in/sidharth178/)
+ 
+If you find this repo useful,don't forget to give a ⭐ 
+
+Thanks! ❤️
